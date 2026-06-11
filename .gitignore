@@ -8,6 +8,6 @@ env/
 
 .DS_Store
 
-*.pkl
-
 data/raw/
+
+models/market_value_model.pkl
